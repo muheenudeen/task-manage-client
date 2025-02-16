@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const BASE_URL = "http://localhost:4000/api";
+const BASE_URL = "https://task-manager-server-n2uz.onrender.com/api";
 
 export const api = {
   tasks: {
